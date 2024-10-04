@@ -1,5 +1,3 @@
-
-
 # Google Generative AI Project - Text & Image Analysis
 
 This project demonstrates how to use Google Generative AI to perform text generation and image-based content generation. The application generates textual responses to queries like "Most Powerful Anime Characters" and estimates details from images, such as gender and age of a person.
